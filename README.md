@@ -46,7 +46,7 @@
 
 ## 🏗️ ERD
 DB와 ERD <br>
-
+![image](https://github.com/ReglossOshi/Human-2Team-Nike-Spring/assets/139785614/c353db26-8116-4118-a7c9-b420a49b9a00)
 <br><br>
 
 ## ⚠️ 트러블 슈팅
