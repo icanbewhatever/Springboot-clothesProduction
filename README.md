@@ -54,5 +54,5 @@ DB와 ERD <br>
 <br><br>
 
 ## 📽️ 작동 영상
-[🎞️ 작동영상]()
+[🎞️ 작동영상](https://drive.google.com/file/d/1EDnsW60zZSrcG14xzo5LZ-SlpSSHnMYi/view?usp=sharing)
 <br><br>
