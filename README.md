@@ -41,7 +41,8 @@
 
 
 ## 🔧 아키텍처
-그림 첨부 필요. 예시는 아래와 같다.<br>
+예시는 아래와 같다.<br>
+![image](https://github.com/ReglossOshi/Human-2Team-Nike-Spring/assets/139785614/67e8fa13-c4bb-4e39-a9ea-bf1061ce42aa)
 <br><br>
 
 ## 🏗️ ERD
